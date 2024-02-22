@@ -1,0 +1,2 @@
+[default.databases]
+mongodb={url="mongodb+srv://bdelgadomunoz:oNaWwnqF8iXJfFub@restaurant.tejv2ny.mongodb.net/?retryWrites=true&w=majority"}
